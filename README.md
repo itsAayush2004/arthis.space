@@ -11,6 +11,10 @@
 
 </div>
 
+<p align="center">
+  <img src="preview.png" alt="ARTHIS.space — the mini-games feed" width="860" />
+</p>
+
 > _This repository is a project showcase. The source code for ARTHIS.space is private — this page explains what it is and how it works._
 
 ---
@@ -65,6 +69,19 @@ Built as a mobile-first web app.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Real-time](https://img.shields.io/badge/Realtime-multiplayer-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+## Screenshots
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><img src="screenshot-2.png" alt="Fruit Blast mini-game" /></td>
+    <td width="50%" valign="top"><img src="screenshot-3.png" alt="Doodle Militia mini-game" /></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Fruit Blast — a match-style round</em></td>
+    <td align="center"><em>Doodle Militia — swipe to the next game</em></td>
+  </tr>
+</table>
 
 ## The ARTHIS universe
 
