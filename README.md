@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/banner.svg" alt="arthis.space banner: fanned game cards with a play button" width="100%"></p>
+
 <div align="center">
 
 <img src="assets/logo.png" alt="ARTHIS.space logo" width="130" />

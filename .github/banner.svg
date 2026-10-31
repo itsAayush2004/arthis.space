@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="arthis.space: fanned game cards with a play button">
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><clipPath id="c"><rect width="1200" height="420" rx="24"/></clipPath></defs>
+<g clip-path="url(#c)">
+
+<rect width="1200" height="420" fill="#FFD23F"/>
+<g transform="translate(900 210)">
+<g transform="rotate(-16)"><rect x="-90" y="-140" width="180" height="260" rx="20" fill="#3A86FF" stroke="#111111" stroke-width="5"/></g>
+<g transform="rotate(8)"><rect x="-90" y="-140" width="180" height="260" rx="20" fill="#FF006E" stroke="#111111" stroke-width="5"/></g>
+<rect x="-90" y="-140" width="180" height="260" rx="20" fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
+<circle cx="-30" cy="-50" r="26" fill="#111111"/><rect x="10" y="-70" width="50" height="40" rx="8" fill="#FF006E" stroke="#111111" stroke-width="4"/>
+<rect x="-60" y="20" width="120" height="40" rx="20" fill="#111111"/><text y="47" text-anchor="middle" font-weight="900" font-family="'Arial Black', 'Segoe UI Black', Impact, sans-serif" font-size="18" fill="#FFD23F">PLAY</text>
+</g>
+<text x="56" y="110" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="15" letter-spacing="3" fill="#111111">PROJECT SHOWCASE</text>
+<text x="56" y="200" font-weight="900" font-family="'Arial Black', 'Segoe UI Black', Impact, sans-serif" font-size="82" fill="#111111">ARTHIS.space</text>
+<text x="58" y="250" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="22" fill="#111111">An endless, swipeable feed of single- and</text>
+<text x="58" y="282" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="22" fill="#111111">multiplayer mini-games. No installs.</text>
+<rect x="56" y="318" width="220" height="44" rx="22" fill="#111111"/><text x="80" y="347" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="17" fill="#FFD23F">play at arthis.space</text>
+
+</g>
+</svg>
